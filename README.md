@@ -2,7 +2,7 @@
 #### **Data Scientist** and ~~machine learning learner~~
 
 ![PinClipart com_mad-scientist-clipart_352166](https://user-images.githubusercontent.com/58116973/126014822-330c03a4-212f-484a-9c3c-48024088b640.png)
-
+https://github-readme-stats.vercel.app/api?
 I am a student who is always learning in life and I continue to pedal every day in all sub-branches of data science.
 
 Skills: PYTHON-ML-AL-SQL
