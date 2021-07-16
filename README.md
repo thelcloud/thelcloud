@@ -12,8 +12,8 @@ Skills: PYTHON-ML-AL-SQL
 - 🌱 I’m currently learning machine learning algorithms. 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/hande-k%C3%BC%C3%A7%C3%BCkbulut/)](https://www.linkedin.com/in/hande-k%C3%BC%C3%A7%C3%BCkbulut/)
-[![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://handeyofficial.medium.com/)](https://handeyofficial.medium.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-handey-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/hande-k%C3%BC%C3%A7%C3%BCkbulut/)](https://www.linkedin.com/in/hande-k%C3%BC%C3%A7%C3%BCkbulut/)
+[![Medium Badge](https://img.shields.io/badge/-@__handey-000000?style=flat&labelColor=000000&logo=Medium&link=https://handeyofficial.medium.com/)](https://handeyofficial.medium.com/)
 
 <a href="https://open.spotify.com/user/handeyofficial?si=i61SbXPRTmGOg5EMbEKgFQ&utm_source=copy-link&dl_branch=1&nd=1">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
