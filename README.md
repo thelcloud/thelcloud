@@ -9,12 +9,12 @@ I am a student who is always learning in life and I continue to pedal every day 
 </a>
 
 Skills: PYTHON-ML-AL-SQL
+![Handey's GitHub stats](https://github-readme-stats.vercel.app/api?username=thelclouda&show_icons=true&theme=gotham)
+
 
 
 - 🔭 I’m currently working on python for data science. 
 - 🌱 I’m currently learning machine learning algorithms. 
-[![Handey's GitHub stats](https://github-readme-stats.vercel.app/api?username=thelcloud)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-handey-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/hande-k%C3%BC%C3%A7%C3%BCkbulut/)](https://www.linkedin.com/in/hande-k%C3%BC%C3%A7%C3%BCkbulut/)
 [![Medium Badge](https://img.shields.io/badge/-@__handey-000000?style=flat&labelColor=000000&logo=Medium&link=https://handeyofficial.medium.com/)](https://handeyofficial.medium.com/)
@@ -24,3 +24,4 @@ Skills: PYTHON-ML-AL-SQL
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thelcloud&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
