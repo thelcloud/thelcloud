@@ -9,9 +9,7 @@ I am a student who is always learning in life and I continue to pedal every day 
 </a>
 
 Skills: PYTHON-ML-AL-SQL
-![Handey's GitHub stats](https://github-readme-stats.vercel.app/api?username=thelclouda&show_icons=true&theme=gotham)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?thelcloud=anuraghazra&show_icons=true&theme=gotham)
 
 - 🔭 I’m currently working on python for data science. 
 - 🌱 I’m currently learning machine learning algorithms. 
@@ -24,4 +22,4 @@ Skills: PYTHON-ML-AL-SQL
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thelcloud&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
