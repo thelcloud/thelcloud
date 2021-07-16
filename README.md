@@ -4,9 +4,7 @@
 ![giphy](https://user-images.githubusercontent.com/58116973/126017740-f1809cda-8f8c-4b93-9ee9-53a8b9853d1f.gif)
 
 I am a student who is always learning in life and I continue to pedal every day in all sub-branches of data science.
-<a href="https://open.spotify.com/user/handeyofficial?si=i61SbXPRTmGOg5EMbEKgFQ&utm_source=copy-link&dl_branch=1&nd=1">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 Skills: PYTHON-ML-AL-SQL
 <br>
