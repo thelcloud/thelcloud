@@ -12,10 +12,11 @@ Skills: PYTHON-ML-AL-SQL
 - 🌱 I’m currently learning machine learning algorithms. 
 
 
-<a href="https://www.linkedin.com/in/hande-k%C3%BC%C3%A7%C3%BCkbulut/">
-  <img align="left" alt="Handey's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/handeyofficial?si=i61SbXPRTmGOg5EMbEKgFQ&utm_source=copy-link&dl_branch=1>
-  <img align="left" alt="Handey's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://www.linkedin.com/in/hande-k%C3%BC%C3%A7%C3%BCkbulut/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/handeyofficial?si=i61SbXPRTmGOg5EMbEKgFQ&utm_source=copy-link&dl_branch=1&nd=1">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
