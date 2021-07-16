@@ -1,4 +1,6 @@
-### Hi there 👋, I'm *Handey*
+### Hi there<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>, I'm *Handey*
 #### **Data Scientist** and ~~machine learning learner~~
 
 ![PinClipart com_mad-scientist-clipart_352166](https://user-images.githubusercontent.com/58116973/126015454-38ff3cf6-ce0e-4ab7-ad5a-7bc712ce3765.png)
@@ -7,7 +9,6 @@ I am a student who is always learning in life and I continue to pedal every day 
 
 Skills: PYTHON-ML-AL-SQL
 
-![Handey’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thelcloud&theme=gotham&show_icons=true&count_private=true “Andres’ GutHub Stats”)
 
 - 🔭 I’m currently working on python for data science. 
 - 🌱 I’m currently learning machine learning algorithms. 
