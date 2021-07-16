@@ -12,10 +12,10 @@ Skills: PYTHON-ML-AL-SQL
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thelcloud&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thelcloud&show_icons=true&theme=gotham)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelcloud&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelcloud&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on python for data science. 
@@ -29,4 +29,5 @@ Skills: PYTHON-ML-AL-SQL
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thelcloud&repo=github-readme-stats&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
