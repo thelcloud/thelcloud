@@ -26,7 +26,7 @@ Skills: PYTHON-ML-AL-SQL
 
 
 <a href="https://open.spotify.com/user/handeyofficial?si=i61SbXPRTmGOg5EMbEKgFQ&utm_source=copy-link&dl_branch=1&nd=1">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="center" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 ![rick-and-morty-gif-007](https://user-images.githubusercontent.com/58116973/126017749-f15b5825-dc5a-4fe4-bd53-8b381cc3f2e5.gif)
