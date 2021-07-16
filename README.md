@@ -9,7 +9,8 @@ I am a student who is always learning in life and I continue to pedal every day 
 </a>
 
 Skills: PYTHON-ML-AL-SQL
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?thelcloud=anuraghazra&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thelcloud&show_icons=true&theme=radical)
+
 
 - 🔭 I’m currently working on python for data science. 
 - 🌱 I’m currently learning machine learning algorithms. 
