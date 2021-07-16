@@ -29,5 +29,5 @@ Skills: PYTHON-ML-AL-SQL
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thelcloud&repo=github-readme-stats&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thelcloud&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
