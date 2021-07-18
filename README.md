@@ -17,10 +17,9 @@ Skills: PYTHON-ML-AL-SQL
 
 - 🔭 I’m currently working on python for data science. 
 - 🌱 I’m currently learning machine learning algorithms.
-- 📝 I regularly write articles on https://handeyofficial.medium.com/
 
-[![Linkedin Badge](https://img.shields.io/badge/-handey-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/hande-k%C3%BC%C3%A7%C3%BCkbulut/)](https://www.linkedin.com/in/hande-k%C3%BC%C3%A7%C3%BCkbulut/)
-[![Medium Badge](https://img.shields.io/badge/-@__handey-000000?style=flat&labelColor=000000&logo=Medium&link=https://handeyofficial.medium.com/)](https://handeyofficial.medium.com/)
+[![Linkedin Badge](https://img.shields.io/badge/handeykucukbulut-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/hande-k%C3%BC%C3%A7%C3%BCkbulut/)](https://www.linkedin.com/in/hande-k%C3%BC%C3%A7%C3%BCkbulut/)
+[![Medium Badge](https://img.shields.io/badge/-@handeyofficial-000000?style=flat&labelColor=000000&logo=Medium&link=https://handeyofficial.medium.com/)](https://handeyofficial.medium.com/)
 
 
 ![rick-and-morty-gif-007](https://user-images.githubusercontent.com/58116973/126017956-d84744c4-b4c7-4adb-aa1c-6b243f6f5026.gif)
