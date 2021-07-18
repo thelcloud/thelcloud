@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm *Handey*
-#### **data Scientist** and ~~machine learning learner~~
+#### **Data Scientist** and ~~Machine Learning Learner~~
 
 ![giphy](https://user-images.githubusercontent.com/58116973/126017740-f1809cda-8f8c-4b93-9ee9-53a8b9853d1f.gif)
 
