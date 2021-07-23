@@ -7,7 +7,7 @@ I am a student who is always learning in life and I continue to pedal every day 
 
 **KEEP FIGHTING!**
 
-Skills: PYTHON-ML-AL-SQL
+**Skills: PYTHON-ML-AL-SQL**
 <br>
 <br>
 <br>
