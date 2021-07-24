@@ -17,8 +17,8 @@ I am a student who is always learning in life and I continue to pedal every day 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelcloud&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on python for data science. 
-<br>
 - 🌱 I’m currently learning machine learning algorithms.
+<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/handekucukbulut-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/hande-k%C3%BC%C3%A7%C3%BCkbulut/)](https://www.linkedin.com/in/hande-k%C3%BC%C3%A7%C3%BCkbulut/)
 [![Medium Badge](https://img.shields.io/badge/-@handeyofficial-000000?style=flat&labelColor=000000&logo=Medium&link=https://handeyofficial.medium.com/)](https://handeyofficial.medium.com/)
